@@ -4,3 +4,10 @@ center {
 .buttons {
   padding: 10px 0;
 }
+button {
+  color: black;
+  background-color: white;
+}
+input {
+  background-color: white;
+}
