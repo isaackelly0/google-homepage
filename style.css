@@ -13,10 +13,11 @@ button {
   margin: 10px;
   background-size: auto;
   width: 15%;
-  border-
+  padding: 10px 16px;
+  text-align: center;
 }
 input {
   background-color: white;
   border-radius: 15px;
-  width: 50%
+  width: 50% 
 }
